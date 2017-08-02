@@ -1,0 +1,16 @@
+name: Dirty Whiskey/Scotch Whiskey/Single Malt Whiskey
+	ingredients:
+	- WHEAT/10
+	- SUGAR_CANE/3
+	- 351,11/3
+	cookingtime: 13
+	distillruns: 2
+	wood: 6
+	age: 15
+	color: ORANGE
+	difficulty: 5
+	alcohol: 25
+	effects:
+	- POISON/5
+	- DAMAGE_RESISTANCE/1/15
+	- CONFUSION/15

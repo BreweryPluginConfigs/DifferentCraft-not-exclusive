@@ -1,0 +1,17 @@
+name: Bland Cake Mix/Cake Mix/&FDiabetic Cake Mix
+ingredients:
+- <egg>/2
+- WHEAT/6
+- MILK_BUCKET/2
+- SUGAR_CANE/6
+//ALTERNATIVELY
+//- CAKE/5
+distillruns: 1
+age: 3
+wood: 1
+color: 
+difficulty: 5
+alcohol: 3
+effects:
+- SPEED/2/30
+- HUNGERX/2/30

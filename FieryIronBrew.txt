@@ -1,0 +1,16 @@
+name: Rusty Iron Brew/Iron Brew/&CFiery Iron Brew
+ingredients:
+- IRON_INGOT/2
+- BlAZE_POWDER/6
+- FLINT/2
+distillruns: 1
+age: 8
+wood: 4
+color: ORANGE
+difficulty: 8
+alcohol: 10
+effects:
+- INCREASE_DAMAGEX/1/15
+- DAMAGE_RESISTANCEX/1/15
+- HEALTH_BOOSTX/1/15
+- SLOWX/15

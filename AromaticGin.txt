@@ -1,0 +1,14 @@
+name: Shoddy Gin/Average Gin/&3Aromatic Gin
+	ingredients:
+	- WHEAT/10
+	- LONG_GRASS/2
+	- MELON_SEEDS/2
+	cookingtime: 11
+	distillruns: 4
+	age: 0
+	color: CYAN
+	difficulty: 5
+	alcohol: 20
+	effects:
+	- POISON/5
+	-

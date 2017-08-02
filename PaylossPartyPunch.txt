@@ -1,0 +1,17 @@
+name: Sour Punch/Punch/&DPayloss Party Punch
+	ingredients:
+	- APPLE/2
+	- RED_MUSHROOM/2
+	- SUGAR_CANE/6
+	- FERMENTED_SPIDER_EYE/1
+	cookingtime: 17
+	distillruns: 5
+	wood: 3
+	age: 20
+	color: PINK
+	difficulty: 10
+	alcohol: 10
+	effects:
+	- NIGHT_VISIONX/30
+	- GLOWINGX/2
+	- LEVITATIONX/2

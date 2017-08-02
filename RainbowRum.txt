@@ -1,0 +1,18 @@
+name: Dull Rainbow Rum/Rainbow Rum/&KVivid Rainbow Rum
+                ingredients:
+                - 351,1/2
+                - 351,14/2
+                - 351,11/2
+                - 351,2/2
+                - 351,6/2
+                - 351,4/2
+                - 351,5/2
+                distillruns: 7
+                age: 7
+                wood: 6
+                color: CYAN
+                difficulty: 10
+                alcohol: 42
+                effects:
+                - GLOW/5
+                - SPEED/1/5

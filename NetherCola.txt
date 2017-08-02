@@ -1,0 +1,6 @@
+name: Flat Nether Cola/Nether Cola/Pulsing Nether Cola
+                ingredients:
+                - <glowstone dust>/3
+                - <soulsand>/7
+				- <netherack>/
+

@@ -1,0 +1,15 @@
+name: Lumpy Jelly Liqueur/Jelly Liqueur/Jordan's Jelly Liqueur
+                ingredients:
+                - SUGAR_CANE/4
+                - RED_MUSHROOM/2
+                - SLIME_BALL/6
+				cookingtime: 8
+                distillruns: 1
+                age: 2
+                wood: 2
+				color: PINK
+				difficulty: 10
+                alcohol: 12
+                effects:
+                - JUMP/2/30
+				- 

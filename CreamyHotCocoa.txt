@@ -1,0 +1,12 @@
+name: Bitter Cocoa/Hot Cocoa/Creamy Hot Cocoa
+	ingredients:
+	- MILK_BUCKET/3
+	- COCOA/6
+	cookingtime: 8
+	distillruns: 2
+	color: BLACK
+	difficulty: 2
+	alcohol: 0
+	effects:
+	- REGENERATION/1/5
+	- ABSORPTION/30

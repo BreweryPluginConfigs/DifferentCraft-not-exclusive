@@ -1,0 +1,13 @@
+name: Bitter Nettle Beer/Nettle Beer/&2Living Nettle Beer
+ingredients:
+- LONG_GRASS/8
+- WHEAT/2
+- SUGAR_CANE/2
+distillruns: 0
+age: 4
+wood: 1
+color: GREEN
+difficulty: 5
+alcohol: 5
+effects:
+- 

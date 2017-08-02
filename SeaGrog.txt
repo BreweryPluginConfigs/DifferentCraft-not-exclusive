@@ -1,0 +1,15 @@
+name: Salty Sea Grog/Sea Grog/Sublime Sea Grog
+                ingredients:
+                - <inksac>/3
+                - <rawfish>/5
+                - <apple>/2
+                distillruns: 0
+                age: 3
+                wood: 2
+                color: GREEN
+                difficulty: 3
+                alcohol: 4
+                effects:
+                - <waterbreathing>/15
+                - <confusion>/15
+               

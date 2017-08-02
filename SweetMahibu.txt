@@ -1,0 +1,13 @@
+name: Bitter Malibu/Sweet Malibu/&5Sweet Mahibu
+	ingredients:
+	- SUGAR_CANE/4
+	- 351,5/4
+	- LONG_GRASS/4
+	cookingtime:
+	distillruns: 3
+	age: 0
+	color: CYAN
+	difficulty: 7
+	alcohol: 16
+	effects:
+	- 

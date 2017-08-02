@@ -1,0 +1,12 @@
+ name: Wispy Ender Ale/Ender Ale/Ethereal Ender Ale
+                ingredients:
+                - <enderpearl>/3
+                - <chorusfruit>/7
+                - <end_stone>/2
+                distillruns: 0
+                age: 7
+                wood: acacis
+                alcohol: 7
+                effects:
+                - <confusion>/15
+                - <glow>/15

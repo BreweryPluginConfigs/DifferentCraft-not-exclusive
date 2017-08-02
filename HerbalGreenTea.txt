@@ -1,0 +1,14 @@
+name: Bitter Green Tea/Green Tea/&2Herbal Green Tea
+	ingredients:
+	- LONG_GRASS/5
+	- CACTUS/2
+	- 351,10/3
+	cookingtime: 7
+	distillruns: 0
+	age: 1
+	wood: 2
+	color: GREEN
+	difficulty: 2
+	alcohol: 0
+	effects:
+	- 

@@ -1,0 +1,14 @@
+name: Murky Wine/Wine/&3Elderflower Wine
+	ingredients:
+	- SUGAR_CANE/6
+	- BEETROOT/2
+	- 38,3/8
+	cookingtime: 7
+	distillruns: 0
+	wood: 4
+	age: 12
+	color: DARK_RED
+	difficulty: 4
+	alcohol: 12
+	effects:
+	- 

@@ -1,0 +1,13 @@
+ name: Tired Bunny Brew/Bunny Brew/Bouncy Bunny Brew
+                ingredients:
+                -
+                -
+                distillruns:0
+                age:5
+                wood: 1
+                color: BRIGHT_GREY
+                difficulty: 6
+                alcohol: 7
+                effects:
+                - SPEED/2/15
+                - JUMP/2/15

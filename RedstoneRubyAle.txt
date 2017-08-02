@@ -1,0 +1,13 @@
+name: Rubbish Ruby Ale/Ruby Ale/&4RedStone Ruby Ale
+ingredients:
+- WHEAT/6
+- SUGAR_CANE/2
+- REDSTONE/5
+distillruns: 0
+age: 12
+wood: 6
+color: DARK_RED
+difficulty: 6
+alcohol: 8
+effects:
+- 

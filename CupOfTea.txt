@@ -1,0 +1,13 @@
+name: Watery Tea/Cup 'O Tea/&CEnglish Tea
+	ingredients:
+	- COCOA/2
+	- MILK_BUCKET/1
+	cookingtime: 10
+	distillruns: 0
+	age: 1
+	wood: 2
+	color: BLACK
+	difficulty: 3
+	alcohol: 0
+	effects:
+	- 

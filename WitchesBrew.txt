@@ -1,0 +1,18 @@
+name: Weak Witches Brew/Witches Brew/&KPotent Witches Brew
+	ingredients:
+	- RED_MUSHROOM/3
+	- BROWN_MUSHROOM/3
+	- BLAZE_POWDER/2
+	- BONE/1
+	- EYE_OF_ENDER/1
+	cookingtime: 30
+	distillruns: 7
+	age: 72
+	wood: 5
+	color: BRIGHT_RED
+	difficulty: 10
+	alcohol: 10
+	effects:
+	- GLOWINGX/5
+	- NIGHT_VISIONX/5
+	- INVISIBILITYX/5

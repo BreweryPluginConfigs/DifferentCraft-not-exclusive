@@ -1,0 +1,11 @@
+name: Second-hand Eggnogg/Eggnog/&FChristmassy Eggnog
+ingredients:
+- EGG/7
+- MILK_BUCKET/5
+distillruns: 2
+age: 5
+wood: Spruce
+alcohol: 12
+effects:
+- WEAKNESSX/15
+- <regeneration/absorbtion>/15

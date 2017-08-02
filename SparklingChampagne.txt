@@ -1,0 +1,16 @@
+name: Flat Champagne/Champagne/&6Sparkling Champagne
+	ingredients:
+	- - SUGAR_CANE/6
+	- WHEAT/3
+	- 351,1/5
+	- DIAMOND/2
+	cookingtime: 8
+	distillruns: 1
+	age: 16
+	wood: 4
+	color: BRIGHT_GREY
+	difficulty: 7
+	alcohol: 17
+	effects:
+	-
+	-

@@ -1,0 +1,16 @@
+	name: &BMild Firewhiskey/&4Firewhiskey/&CSmouldering Firewhiskey
+	ingredients:
+	- WHEAT/5
+	- BLAZE_POWDER/5
+	- 351,14/2
+	cookingtime:
+	distillruns: 2
+	age: 10
+	wood: 6
+	color: BRIGHT_RED
+	difficulty: 7
+	alcohol: 35
+	effects:
+	- FIRE_RESISTANCE/2/15
+	- 
+	

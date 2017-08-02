@@ -1,0 +1,14 @@
+name: Blinding Irish Poitín/Irish Poitín/&7Vanilla Irish Poitín
+	ingredients:
+	- WHEAT/5
+	- POTATO_ITEM/10
+	cookingtime: 9
+	distillruns: 10
+	age: 0
+	color: GREY
+	difficulty: 5
+	alcohol: 60
+	effects:
+	- POISONX/30
+	- BLINDNESSX/30
+	- CONFUSIONX/30

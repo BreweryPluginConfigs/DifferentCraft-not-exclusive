@@ -1,0 +1,14 @@
+name: Sour Apple Wine/Apple Wine/Sweet Apple Wine
+                ingredients:
+                - APPLE/12
+                - SUGAR_CANE/4
+                cookingtime: 9
+                distillruns: 0
+                age: 6
+                wood: 2
+                color: ORANGE
+                difficulty: 4
+                alcohol: 14
+                effects:
+                -
+                -

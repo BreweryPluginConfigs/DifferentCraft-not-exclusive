@@ -1,0 +1,16 @@
+name: Foul Birch Sap Wine/Birch Sap Wine/------------
+                ingredients:
+                - <birchleaves>/5
+                - <birchwood>/4
+                - SUGAR_CANE/2
+                cookingtime: 7
+                distillruns: 1
+                age: 5
+                wood: 1
+                color: GREY
+                difficulty: 6
+                alcohol: 9
+                effects:
+                - CONFUSIONX/30
+                - JUMP/15
+                - SLOW/15	

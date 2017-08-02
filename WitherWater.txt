@@ -1,0 +1,20 @@
+ name: Weak Wither Water/Wither Water/Wasabi Wither Water
+                ingredients:
+                - <bones>/5
+                - <gunpowder>/3
+                - <blazepowder>/4
+                distillruns: 12
+                age: 0
+                alcohol: 50
+                difficulty: 10
+                effects:
+                - WITHERX/5
+                - POISONX/1/5
+                - REGENERATION/1/10
+                - UNLUCKX/5
+                - CONFUSIONX/10
+                - HUNGERX/5
+                - SLOWX/5
+                - WEAKNESSX/5
+				- BLINDNESS/5
+				- GLOWING/15

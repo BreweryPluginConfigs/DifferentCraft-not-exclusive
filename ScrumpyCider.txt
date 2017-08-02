@@ -1,0 +1,13 @@
+name: Cloudy Scrumpy Cider/Scrumpy Cider/Sweet Scrumpy Cider
+	ingredients:
+	- APPLE/6
+	- SUGAR_CANE/4
+	cookingtime: 3
+	distillruns: 0
+	age: 4
+	wood: 1
+	color: ORANGE
+	difficulty: 3
+	alcohol: 6
+	effects:
+	- 

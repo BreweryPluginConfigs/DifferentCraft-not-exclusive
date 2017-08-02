@@ -1,0 +1,13 @@
+    name: Bitter Cointreau/Cointreau/Zesty Cointreau
+    ingredients:
+    - POTATO_ITEM/3
+    - LONG_GRASS/2
+    - 351,14/
+    distillruns: 2
+    age: 10
+    wood: jungle
+	color: GREY
+	difficulty: 
+    alcohol: 30
+    effects:
+    -
