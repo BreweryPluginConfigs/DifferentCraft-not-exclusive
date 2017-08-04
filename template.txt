@@ -1,0 +1,15 @@
+name: 
+ingredients:
+  - 
+  - 
+  - 
+cookingtime:
+distillruns:
+age:
+wood:
+color:
+difficulty:
+alcohol:
+effects:
+  - 
+  - 
