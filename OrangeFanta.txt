@@ -1,0 +1,14 @@
+name: Sour Fanta/Fanta/&6Orange Fanta
+ingredients:
+  - SUGAR/5
+  - ORANGE_DIE/3
+cookingtime: 3
+distillruns: 0
+age: 15
+wood: 2
+color: ORANGE
+difficulty: 6
+alcohol: 0
+effects:
+  - STRENGTH/2/15
+  - ABSORPTION/2/10
