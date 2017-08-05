@@ -1,0 +1,15 @@
+name: Sour Ubi/Ubi/&3Ultimate Ubi
+ingredients:
+  - WHEAT/3
+  - SUGAR/2
+  - GLOWSTONE_DUST/2
+cookingtime: 10
+distillruns: 2
+age: 9
+wood: 2
+color: ORANGE
+difficulty: 7
+alcohol: 25
+effects: 
+  - STRENGTH/1/30
+  - ABSORPTION/2/30
