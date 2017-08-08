@@ -9,7 +9,7 @@ age: 9
 wood: 2
 color: ORANGE
 difficulty: 7
-alcohol: 25
+alcohol: 50
 effects: 
   - STRENGTH/1/30
   - ABSORPTION/2/30
